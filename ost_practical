@@ -1,0 +1,10 @@
+list1=[15,92,83,54,40,67]
+sum2=0
+i=0
+while i<len(list1):
+      sum1=list1[i]+sum2
+      sum2=sum1
+      i=i+1
+print(sum2)
+Output:
+351
