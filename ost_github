@@ -1,0 +1,15 @@
+list1=[15,92,83,54,40,67]
+print(max(list1))
+Output:
+92
+
+list1=[15,92,83,54,40,67]
+print(min(list1))
+Output:
+15
+
+list1=[15,92,83,54,40,67]
+list1.sort()
+print(list1)'''
+Output:
+[15, 40, 54, 67, 83, 92]
